@@ -756,3 +756,24 @@ I designed a second screen which is an alert screen that confirms that the delet
 - Product details include: name, category, price, seller, seller's email, product availability tag and product description 
 
 -----Main Goal -- Allow admins view product details at a glance
+
+
+## Name: Anees Adeyinka
+
+## Description: Admin Design - Products Search Results (Desktop View)
+### Observation/Changes
+- Created the search page for products on the platform.
+- Created the empty search page for no result on a particular item or faulty internet connection. 
+
+-----Main Goal -- Allow admins to search for products with ease
+
+
+## Name: Anees Adeyinka
+
+## Description: Admin Design - Product Page: Make Product Unavailable & Delete Product (Desktop View)
+### Observation/Changes
+- Designed the popup to make products unavailable/available or "delete product permanently"
+- Designed the confirmation popup for the actions described above
+- Designed the alert screens for the actions taken above
+
+-----Main Goal -- Allow admins to make products available/unavailable or delete a product permanently
