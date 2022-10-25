@@ -636,3 +636,123 @@ I designed a second screen which is an alert screen that confirms that the delet
 I designed a second screen which is an alert screen that confirms that the deletion process is successful
 
 -----Main Goal -- Build a responsive and easy to navigate the make product available flow for the admin
+
+
+## Name: Anees Adeyinka
+
+## Description: Admin design: Products Page
+### Observation/Changes
+- I designed the admin product page (desktop view)
+- Admin can sort products based on name, category and latest
+- I created the empty state for the products page and search page
+- I created the search page for the products page
+- I designed more option button with three options: "view details" , "mark as unavailable" and "delete product"
+
+
+-----Main Goal -- To make viewing and searching for uploaded products easy and to give admin access to to "delete" or "make products unavailable/available"
+
+
+## Name: Motunrayo Agoro
+
+## Description: Admin design: Authentication screen (Log in) - Desktop view
+### Observation/Changes
+- I designed the admin authentication screen (desktop view)
+- Admin can login or reset password
+- I ensured that the design followed the design style guide provided by the design lead
+- I rearranged the authentication screens after going through the design flow
+
+-----Main Goal -- To design a responsive and easy to navigate the authentication screens flow for the admin
+
+
+## Name: Motunrayo Agoro
+
+## Description: Admin design: Authentication screen (Log in) - Tablet view
+### Observation/Changes
+- I created the admin authentication screen (Tablet view)
+- I designed the 6 screens of the login flow using the style guide
+- Admin can login or reset password
+- I ensured that the design followed the design style guide provided by the design lead
+- I made sure the ipad screen followed the design flow from login to reset password, to password reset succesful
+- Admin can receive reset pin email when admin forgets password
+- I rearranged the screens and rename so such that it can be easily accessed 
+ 
+
+-----Main Goal -- To design a responsive and easy to navigate the authentication screens flow of the ipad screen for the admin
+
+
+## Name: Motunrayo Agoro
+
+## Description: Admin design: Authentication screen (Log in) - mobile view
+### Observation/Changes
+- I created the admin authentication screen (mobile view)
+- I designed the 6 screens of the login flow using the style guide
+- Admin can login or reset password
+- I ensured that the design followed the design style guide provided by the design lead
+- I made sure the mobile screen followed the design flow from login to reset password, to password reset succesful
+- Admin can receive reset pin email when admin forgets password
+- I rearranged the screens and rename so such that it can be easily accessed 
+ 
+
+-----Main Goal -- To design a responsive and easy to navigate the authentication screens flow of the mobile screen for the admin
+
+
+## Name: Motunrayo Agoro
+
+## Description: Admin design: Authentication screen (Email notification) - desktop view
+### Observation/Changes
+- I created the admin authentication email notification screen (desktop view)
+- I designed the 2 screens of the email notification flow using the style guide
+- Admin can receive email pop up notification 
+- I ensured that the design followed the design style guide provided by the design lead
+- Admin can receive reset pin email when admin forgets password
+- I rearranged the screens and rename so such that it can be easily accessed 
+ 
+ 
+ -----Main Goal -- To design a responsive and easy to navigate the authentication email notification screens of the desktop screen for the admin
+
+
+## Name: Oluwatosin Alabi
+
+## Description: Improved Ux Writing on product details pop-up screen
+### Observation/Changes
+-I observed some Ux writing inconsistencies on the product details and also observed 
+ issues relating to product tone and worked on a rewrite.
+- Improved ux writing
+- Users' Dashboard - Product Description Pop Up
+
+-----Main Goal -- Improving user experience and interaction with the product 
+
+
+## Name: Oluwatosin Alabi
+
+## Description: Improved UX writing on Delete Product Flow Screens
+### Observation/Changes
+-I observed some Ux writing inconsistencies on the delete product screens and also observed 
+ issues relating to product tone and worked on a rewrite.
+- Improved ux writing
+- Users' Dashboard - Delete Product Flow Screens
+
+-----Main Goal -- Improving user experience and interaction with the product
+
+
+
+## Name: Oluwatosin Alabi
+
+## Description: Improved UX writing on Make Product Unavailable Flow Screens
+### Observation/Changes
+- I observed some Ux writing inconsistencies on the delete product screens and also observed 
+  issues relating to product tone and worked on a rewrite.
+- I improved UX writing on the "make product unavailable product" flow screens.
+- I ensured the improvement was done on all screens (desktop, tablet and mobile)
+- I ensured the use the colors and typography on the style guide to ensure consistency
+
+-----Main Goal -- Improving user experience and interaction with the product
+
+## Name: Anees Adeyinka
+
+## Description: Admin Design - Products Details Pop-Up (Desktop View)
+### Observation/Changes
+- Created a popup to show product details from admin product page
+- Product details include: name, category, price, seller, seller's email, product availability tag and product description 
+
+-----Main Goal -- Allow admins view product details at a glance
